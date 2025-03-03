@@ -34,7 +34,6 @@ This project enhances **data security and privacy protection**, making it a usef
 ## ⚙️ Set Paths for Required Files
 
 Ensure that the paths for **input and output files (audio/image)** are correctly set within the code.  
-Modify file paths in **`main.py`**, **`audio_steg.py`**, and **`image_steg.py`** if necessary.  
 
 ---
 
