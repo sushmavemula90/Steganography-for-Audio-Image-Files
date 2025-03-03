@@ -18,6 +18,8 @@ OpenCV
 NumPy
 Tkinter (included with Python)
 Wave (built-in with Python)
+
+
 **Set Paths for Required Files**
 Ensure that the paths for input and output files (audio/image) are correctly set within the code.
 Modify file paths in main.py, audio_steg.py, and image_steg.py if necessary.
